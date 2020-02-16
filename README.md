@@ -67,4 +67,4 @@ wspace=0.2
 )
 ```
 
-![Output:]
+![Output:](https://github.com/Wreckitraphael/Bezier-Splines/blob/master/Example%20Output.png)
